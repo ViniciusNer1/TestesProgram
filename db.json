@@ -1,0 +1,40 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "nome": "cliente A",
+            "Limite_da_conta": 1000,
+            "Cheque_especial": 500 ,
+            "Limite_total_da_conta": 1500,
+            "saldo": 2500,
+            "Debito": 1500
+        },   
+        {
+            "id": 2,
+            "nome": "cliente B",
+            "Limite_da_conta": 3000,
+            "Cheque_especial": 1000,
+            "Limite total_da_conta": 4000 ,
+            "saldo": 1800,
+            "Debito": 3500
+        },
+        {
+            "id": 3,
+            "nome": "cliente C",
+            "Limite_da_conta": 1200,
+            "Cheque_especial": 500 ,
+            "Limite_total_da_conta": 1700 ,
+            "Saldo": 800,
+            "Debito": 1300
+        },
+        {
+            "id": 4,
+            "nome": "cliente D",
+            "Limite_da_conta": 1400 ,
+            "Cheque_especial": 600,
+            "Limite_total_da_conta": 2000,
+            "saldo": 2300,
+            "Debito": 2000
+        }
+    ]
+}
